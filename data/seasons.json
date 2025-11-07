@@ -1,0 +1,1103 @@
+{
+  "updated_at": "2025-11-07T19:43:55.007187Z",
+  "seasons": [
+    {
+      "season_number": 1,
+      "title": "Survivor: Borneo",
+      "location": "Pulau Tiga , Sabah , Borneo , Malaysia",
+      "filming_dates": {
+        "start": "March 13, 2000",
+        "end": "April 20, 2000"
+      },
+      "airing_dates": {
+        "start": "May 31, 2000",
+        "end": "August 23, 2000"
+      },
+      "num_episodes": 14,
+      "num_days": 39,
+      "num_castaways": 16,
+      "winner": "Richard Hatch",
+      "tribes": [
+        "Pagong Tagi Rattana"
+      ],
+      "viewership_millions": 28.3,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Borneo"
+    },
+    {
+      "season_number": 2,
+      "title": "Survivor: The Australian Outback",
+      "location": "Herbert River , Goshen Station , Queensland , Australia",
+      "filming_dates": {
+        "start": "October 23, 2000",
+        "end": "December 3, 2000"
+      },
+      "airing_dates": {
+        "start": "January 28, 2001",
+        "end": "May 3, 2001"
+      },
+      "num_episodes": 16,
+      "num_days": 42,
+      "num_castaways": 16,
+      "winner": "Tina Wesson",
+      "tribes": [
+        "Kucha Ogakor Barramundi"
+      ],
+      "viewership_millions": 29.8,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_The_Australian_Outback"
+    },
+    {
+      "season_number": 3,
+      "title": "Survivor: Africa",
+      "location": "Shaba National Reserve , Kenya",
+      "filming_dates": {
+        "start": "July 11, 2001",
+        "end": "August 18, 2001"
+      },
+      "airing_dates": {
+        "start": "October 11, 2001",
+        "end": "January 10, 2002"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 16,
+      "winner": "Ethan Zohn",
+      "tribes": [
+        "Boran Samburu Moto Maji"
+      ],
+      "viewership_millions": 20.69,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Africa"
+    },
+    {
+      "season_number": 4,
+      "title": "Survivor: Marquesas",
+      "location": "Nuku Hiva , Marquesas Islands , French Polynesia , France",
+      "filming_dates": {
+        "start": "November 12, 2001",
+        "end": "December 20, 2001"
+      },
+      "airing_dates": {
+        "start": "February 28, 2002",
+        "end": "May 19, 2002"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 16,
+      "winner": "Vecepia Towery",
+      "tribes": [
+        "Maraamu Rotu Soliantu"
+      ],
+      "viewership_millions": 20.77,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Marquesas"
+    },
+    {
+      "season_number": 5,
+      "title": "Survivor: Thailand",
+      "location": "Ko Tarutao , Satun province , Thailand",
+      "filming_dates": {
+        "start": "June 10, 2002",
+        "end": "July 18, 2002"
+      },
+      "airing_dates": {
+        "start": "September 19, 2002",
+        "end": "December 19, 2002"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 16,
+      "winner": "Brian Heidik",
+      "tribes": [
+        "Chuay Gahn Sook Jai Chuay Jai"
+      ],
+      "viewership_millions": 21.21,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Thailand"
+    },
+    {
+      "season_number": 6,
+      "title": "Survivor: The Amazon",
+      "location": "Rio Negro , Amazonas , Brazil",
+      "filming_dates": {
+        "start": "November 4, 2002",
+        "end": "December 12, 2002"
+      },
+      "airing_dates": {
+        "start": "February 13, 2003",
+        "end": "May 11, 2003"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 16,
+      "winner": "Jenna Morasca",
+      "tribes": [
+        "Jaburu Tambaqui Jacaré"
+      ],
+      "viewership_millions": 19.97,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_The_Amazon"
+    },
+    {
+      "season_number": 7,
+      "title": "Survivor: Pearl Islands",
+      "location": "Isla del Rey , [ 1 ] Pearl Islands , Panama",
+      "filming_dates": {
+        "start": "June 23, 2003",
+        "end": "July 31, 2003"
+      },
+      "airing_dates": {
+        "start": "September 18, 2003",
+        "end": "December 14, 2003"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 16,
+      "winner": "Sandra Diaz-Twine",
+      "tribes": [
+        "Drake Morgan The Outcasts Balboa"
+      ],
+      "viewership_millions": 20.72,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Pearl_Islands"
+    },
+    {
+      "season_number": 8,
+      "title": "Survivor: All-Stars",
+      "location": "Pearl Islands , Panama",
+      "filming_dates": {
+        "start": "November 3, 2003",
+        "end": "December 11, 2003 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "February 1, 2004",
+        "end": "May 9, 2004"
+      },
+      "num_episodes": 18,
+      "num_days": 39,
+      "num_castaways": 18,
+      "winner": "Amber Brkich",
+      "tribes": [
+        "Chapera Mogo Mogo Saboga Chaboga Mogo"
+      ],
+      "viewership_millions": 21.49,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_All-Stars"
+    },
+    {
+      "season_number": 9,
+      "title": "Survivor: Vanuatu",
+      "location": "Efate , Shefa Province , Vanuatu",
+      "filming_dates": {
+        "start": "June 26, 2004",
+        "end": "August 3, 2004"
+      },
+      "airing_dates": {
+        "start": "September 16, 2004",
+        "end": "December 12, 2004"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 18,
+      "winner": "Chris Daugherty",
+      "tribes": [
+        "Lopevi Yasur Alinta"
+      ],
+      "viewership_millions": 19.64,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Vanuatu"
+    },
+    {
+      "season_number": 10,
+      "title": "Survivor: Palau",
+      "location": "Koror , Palau",
+      "filming_dates": {
+        "start": "November 1, 2004",
+        "end": "December 9, 2004"
+      },
+      "airing_dates": {
+        "start": "February 17, 2005",
+        "end": "May 15, 2005"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 20,
+      "winner": "Tom Westman",
+      "tribes": [
+        "Koror Ulong"
+      ],
+      "viewership_millions": 20.91,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Palau"
+    },
+    {
+      "season_number": 11,
+      "title": "Survivor: Guatemala",
+      "location": "Laguna Yaxhá , Yaxhá-Nakúm-Naranjo National Park , Petén , Guatemala",
+      "filming_dates": {
+        "start": "June 27, 2005",
+        "end": "August 4, 2005"
+      },
+      "airing_dates": {
+        "start": "September 15, 2005",
+        "end": "December 11, 2005"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 18,
+      "winner": "Danni Boatwright",
+      "tribes": [
+        "Nakúm Yaxhá Xhakúm"
+      ],
+      "viewership_millions": 18.3,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Guatemala"
+    },
+    {
+      "season_number": 12,
+      "title": "Survivor: Panama",
+      "location": "Pearl Islands , Panama",
+      "filming_dates": {
+        "start": "October 31, 2005",
+        "end": "December 8, 2005"
+      },
+      "airing_dates": {
+        "start": "February 2, 2006",
+        "end": "May 14, 2006"
+      },
+      "num_episodes": 16,
+      "num_days": 39,
+      "num_castaways": 16,
+      "winner": "Aras Baskauskas",
+      "tribes": [
+        "Bayoneta Casaya La Mina Viveros Gitanos"
+      ],
+      "viewership_millions": 16.82,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Panama"
+    },
+    {
+      "season_number": 13,
+      "title": "Survivor: Cook Islands",
+      "location": "Aitutaki , Cook Islands",
+      "filming_dates": {
+        "start": "June 26, 2006",
+        "end": "August 3, 2006"
+      },
+      "airing_dates": {
+        "start": "September 14, 2006",
+        "end": "December 17, 2006"
+      },
+      "num_episodes": 16,
+      "num_days": 39,
+      "num_castaways": 20,
+      "winner": "Yul Kwon",
+      "tribes": [
+        "Aitutaki Manihiki Puka Puka Rarotonga Aitutonga"
+      ],
+      "viewership_millions": 15.75,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Cook_Islands"
+    },
+    {
+      "season_number": 14,
+      "title": "Survivor: Fiji",
+      "location": "Macuata , Vanua Levu , Fiji",
+      "filming_dates": {
+        "start": "October 30, 2006",
+        "end": "December 7, 2006"
+      },
+      "airing_dates": {
+        "start": "February 8, 2007",
+        "end": "May 13, 2007"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 19,
+      "winner": "Earl Cole",
+      "tribes": [
+        "Moto Ravu Bula Bula"
+      ],
+      "viewership_millions": 14.8,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Fiji"
+    },
+    {
+      "season_number": 15,
+      "title": "Survivor: China",
+      "location": "Zhelin Reservoir , Jiujiang , Jiangxi , China",
+      "filming_dates": {
+        "start": "June 25, 2007",
+        "end": "August 2, 2007"
+      },
+      "airing_dates": {
+        "start": "September 20, 2007",
+        "end": "December 16, 2007"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 16,
+      "winner": "Todd Herzog",
+      "tribes": [
+        "Fei Long Zhan Hu Hae Da Fung"
+      ],
+      "viewership_millions": 15.18,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_China"
+    },
+    {
+      "season_number": 16,
+      "title": "Survivor: Micronesia",
+      "location": "Koror , Palau",
+      "filming_dates": {
+        "start": "October 29, 2007",
+        "end": "December 6, 2007 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "February 7, 2008",
+        "end": "May 11, 2008"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 20,
+      "winner": "Parvati Shallow",
+      "tribes": [
+        "Airai Malakal Dabu"
+      ],
+      "viewership_millions": 13.61,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Micronesia"
+    },
+    {
+      "season_number": 17,
+      "title": "Survivor: Gabon",
+      "location": "Wonga-Wongue Presidential Reserve , Estuaire Province , Gabon",
+      "filming_dates": {
+        "start": "June 23, 2008",
+        "end": "July 31, 2008"
+      },
+      "airing_dates": {
+        "start": "September 25, 2008",
+        "end": "December 14, 2008"
+      },
+      "num_episodes": 14,
+      "num_days": 39,
+      "num_castaways": 18,
+      "winner": "Bob Crowley",
+      "tribes": [
+        "Fang Kota Nobag"
+      ],
+      "viewership_millions": 13.81,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Gabon"
+    },
+    {
+      "season_number": 18,
+      "title": "Survivor: Tocantins",
+      "location": "Jalapão , Tocantins , Brazil",
+      "filming_dates": {
+        "start": "November 1, 2008",
+        "end": "December 9, 2008"
+      },
+      "airing_dates": {
+        "start": "February 12, 2009",
+        "end": "May 17, 2009"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 16,
+      "winner": "J.T. Thomas",
+      "tribes": [
+        "Jalapao Timbira Forza"
+      ],
+      "viewership_millions": 12.86,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Tocantins"
+    },
+    {
+      "season_number": 19,
+      "title": "Survivor: Samoa",
+      "location": "Upolu , Samoa",
+      "filming_dates": {
+        "start": "June 11, 2009",
+        "end": "July 19, 2009"
+      },
+      "airing_dates": {
+        "start": "September 17, 2009",
+        "end": "December 20, 2009"
+      },
+      "num_episodes": 16,
+      "num_days": 39,
+      "num_castaways": 20,
+      "winner": "Natalie White",
+      "tribes": [
+        "Foa Foa Galu Aiga"
+      ],
+      "viewership_millions": 13.45,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Samoa"
+    },
+    {
+      "season_number": 20,
+      "title": "Survivor: Heroes vs. Villains",
+      "location": "Upolu , Samoa",
+      "filming_dates": {
+        "start": "August 9, 2009",
+        "end": "September 16, 2009"
+      },
+      "airing_dates": {
+        "start": "February 11, 2010",
+        "end": "May 16, 2010"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 20,
+      "winner": "Sandra Diaz-Twine",
+      "tribes": [
+        "Heroes Villains Yin Yang"
+      ],
+      "viewership_millions": 13.669,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Heroes_vs._Villains"
+    },
+    {
+      "season_number": 21,
+      "title": "Survivor: Nicaragua",
+      "location": "San Juan del Sur , Rivas , Nicaragua",
+      "filming_dates": {
+        "start": "June 14, 2010",
+        "end": "July 22, 2010"
+      },
+      "airing_dates": {
+        "start": "September 15, 2010",
+        "end": "December 19, 2010"
+      },
+      "num_episodes": 16,
+      "num_days": 39,
+      "num_castaways": 20,
+      "winner": "Fabio Birza",
+      "tribes": [
+        "Espada La Flor Libertad"
+      ],
+      "viewership_millions": 13.611,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Nicaragua"
+    },
+    {
+      "season_number": 22,
+      "title": "Survivor: Redemption Island",
+      "location": "San Juan del Sur , Rivas , Nicaragua",
+      "filming_dates": {
+        "start": "August 16, 2010",
+        "end": "September 23, 2010"
+      },
+      "airing_dates": {
+        "start": "February 16, 2011",
+        "end": "May 15, 2011"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 18,
+      "winner": "Rob Mariano",
+      "tribes": [
+        "Ometepe Zapatera Murlonio"
+      ],
+      "viewership_millions": 12.585,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Redemption_Island"
+    },
+    {
+      "season_number": 23,
+      "title": "Survivor: South Pacific",
+      "location": "Upolu , Samoa",
+      "filming_dates": {
+        "start": "May 30, 2011",
+        "end": "July 7, 2011"
+      },
+      "airing_dates": {
+        "start": "September 14, 2011",
+        "end": "December 18, 2011"
+      },
+      "num_episodes": 16,
+      "num_days": 39,
+      "num_castaways": 18,
+      "winner": "Sophie Clarke",
+      "tribes": [
+        "Savaii Upolu Te Tuna"
+      ],
+      "viewership_millions": 12.77,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_South_Pacific"
+    },
+    {
+      "season_number": 24,
+      "title": "Survivor: One World",
+      "location": "Upolu , Samoa",
+      "filming_dates": {
+        "start": "August 1, 2011",
+        "end": "September 8, 2011"
+      },
+      "airing_dates": {
+        "start": "February 15, 2012",
+        "end": "May 13, 2012"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 18,
+      "winner": "Kim Spradlin",
+      "tribes": [
+        "Manono Salani Tikiano"
+      ],
+      "viewership_millions": 11.636,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_One_World"
+    },
+    {
+      "season_number": 25,
+      "title": "Survivor: Philippines",
+      "location": "Caramoan , Camarines Sur , Philippines",
+      "filming_dates": {
+        "start": "March 18, 2012",
+        "end": "April 25, 2012"
+      },
+      "airing_dates": {
+        "start": "September 19, 2012",
+        "end": "December 16, 2012"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 18,
+      "winner": "Denise Stapley",
+      "tribes": [
+        "Kalabaw Matsing Tandang Dangrayne"
+      ],
+      "viewership_millions": 11.851,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Philippines"
+    },
+    {
+      "season_number": 26,
+      "title": "Survivor: Caramoan",
+      "location": "Caramoan , Camarines Sur , Philippines",
+      "filming_dates": {
+        "start": "May 21, 2012",
+        "end": "June 28, 2012"
+      },
+      "airing_dates": {
+        "start": "February 13, 2013",
+        "end": "May 12, 2013"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 20,
+      "winner": "John Cochran",
+      "tribes": [
+        "Bikal Gota Enil Edam"
+      ],
+      "viewership_millions": 10.815,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Caramoan"
+    },
+    {
+      "season_number": 27,
+      "title": "Survivor: Blood vs. Water",
+      "location": "Palaui Island , Santa Ana , Cagayan , Philippines",
+      "filming_dates": {
+        "start": "May 19, 2013",
+        "end": "June 27, 2013 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "September 18, 2013",
+        "end": "December 15, 2013"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 20,
+      "winner": "Tyson Apostol",
+      "tribes": [
+        "Galang Tadhana Kasama"
+      ],
+      "viewership_millions": 9.64,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Blood_vs._Water"
+    },
+    {
+      "season_number": 28,
+      "title": "Survivor: Cagayan",
+      "location": "Palaui Island , Santa Ana , Cagayan , Philippines",
+      "filming_dates": {
+        "start": "July 10, 2013",
+        "end": "August 17, 2013"
+      },
+      "airing_dates": {
+        "start": "February 26, 2014",
+        "end": "May 21, 2014"
+      },
+      "num_episodes": 14,
+      "num_days": 39,
+      "num_castaways": 18,
+      "winner": "Tony Vlachos",
+      "tribes": [
+        "Aparri Luzon Solana Solarrion"
+      ],
+      "viewership_millions": 9.45,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Cagayan"
+    },
+    {
+      "season_number": 29,
+      "title": "Survivor: San Juan del Sur",
+      "location": "San Juan del Sur , Rivas , Nicaragua",
+      "filming_dates": {
+        "start": "June 1, 2014",
+        "end": "July 10, 2014 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "September 24, 2014",
+        "end": "December 17, 2014"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 18,
+      "winner": "Natalie Anderson",
+      "tribes": [
+        "Coyopa Hunahpu Huyopa"
+      ],
+      "viewership_millions": 9.2,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_San_Juan_del_Sur"
+    },
+    {
+      "season_number": 30,
+      "title": "Survivor: Worlds Apart",
+      "location": "San Juan del Sur , Rivas , Nicaragua",
+      "filming_dates": {
+        "start": "August 4, 2014",
+        "end": "September 11, 2014"
+      },
+      "airing_dates": {
+        "start": "February 25, 2015",
+        "end": "May 20, 2015"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 18,
+      "winner": "Mike Holloway",
+      "tribes": [
+        "Escameca Masaya Nagarote Merica"
+      ],
+      "viewership_millions": 9.49,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Worlds_Apart"
+    },
+    {
+      "season_number": 31,
+      "title": "Survivor: Cambodia",
+      "location": "Koh Rong , Cambodia",
+      "filming_dates": {
+        "start": "May 31, 2015",
+        "end": "July 8, 2015 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "September 23, 2015",
+        "end": "December 16, 2015"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 20,
+      "winner": "Jeremy Collins",
+      "tribes": [
+        "Bayon Ta Keo Angkor Orkun"
+      ],
+      "viewership_millions": 8.881,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Cambodia"
+    },
+    {
+      "season_number": 32,
+      "title": "Survivor: Kaôh Rōng",
+      "location": "Koh Rong , Cambodia",
+      "filming_dates": {
+        "start": "March 30, 2015",
+        "end": "May 7, 2015 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "February 17, 2016",
+        "end": "May 18, 2016"
+      },
+      "num_episodes": 15,
+      "num_days": 39,
+      "num_castaways": 18,
+      "winner": "Michele Fitzgerald",
+      "tribes": [
+        "Chan Loh Gondol To Tang Dara"
+      ],
+      "viewership_millions": 8.3,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Ka%C3%B4h_R%C5%8Dng"
+    },
+    {
+      "season_number": 33,
+      "title": "Survivor: Millennials vs. Gen X",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "April 4, 2016",
+        "end": "May 12, 2016 [ 2 ]"
+      },
+      "airing_dates": {
+        "start": "September 21, 2016",
+        "end": "December 14, 2016 [ 1 ]"
+      },
+      "num_episodes": 14,
+      "num_days": 39,
+      "num_castaways": 20,
+      "winner": "Adam Klein",
+      "tribes": [
+        "Takali Vanua Ikabula Vinaka"
+      ],
+      "viewership_millions": 8.38,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Millennials_vs._Gen_X"
+    },
+    {
+      "season_number": 34,
+      "title": "Survivor: Game Changers",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "June 6, 2016",
+        "end": "July 14, 2016 [ 2 ]"
+      },
+      "airing_dates": {
+        "start": "March 8, 2017",
+        "end": "May 24, 2017 [ 1 ]"
+      },
+      "num_episodes": 13,
+      "num_days": 39,
+      "num_castaways": 20,
+      "winner": "Sarah Lacina",
+      "tribes": [
+        "Mana Nuku Tavua Maku Maku"
+      ],
+      "viewership_millions": 7.98,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Game_Changers"
+    },
+    {
+      "season_number": 35,
+      "title": "Survivor: Heroes vs. Healers vs. Hustlers",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "April 3, 2017",
+        "end": "May 11, 2017 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "September 27, 2017",
+        "end": "December 20, 2017"
+      },
+      "num_episodes": 14,
+      "num_days": 39,
+      "num_castaways": 18,
+      "winner": "Ben Driebergen",
+      "tribes": [
+        "Levu Soko Yawa Solewa"
+      ],
+      "viewership_millions": 8.103,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Heroes_vs._Healers_vs._Hustlers"
+    },
+    {
+      "season_number": 36,
+      "title": "Survivor: Ghost Island",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "June 5, 2017",
+        "end": "July 13, 2017 [ 2 ]"
+      },
+      "airing_dates": {
+        "start": "February 28, 2018",
+        "end": "May 23, 2018 [ 1 ]"
+      },
+      "num_episodes": 14,
+      "num_days": 39,
+      "num_castaways": 20,
+      "winner": "Wendell Holland",
+      "tribes": [
+        "Malolo Naviti Yanuya Lavita"
+      ],
+      "viewership_millions": 7.782,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Ghost_Island"
+    },
+    {
+      "season_number": 37,
+      "title": "Survivor: David vs. Goliath",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "March 29, 2018",
+        "end": "May 6, 2018 [ 3 ]"
+      },
+      "airing_dates": {
+        "start": "September 26, 2018 [ 1 ]",
+        "end": "December 19, 2018 [ 2 ]"
+      },
+      "num_episodes": 14,
+      "num_days": 39,
+      "num_castaways": 20,
+      "winner": "Nick Wilson",
+      "tribes": [
+        "David/Vuku Goliath/Jabeni Tiva Kalokalo"
+      ],
+      "viewership_millions": 7.317,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_David_vs._Goliath"
+    },
+    {
+      "season_number": 38,
+      "title": "Survivor: Edge of Extinction",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "May 30, 2018",
+        "end": "July 7, 2018 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "February 20, 2019",
+        "end": "May 15, 2019 [ 2 ]"
+      },
+      "num_episodes": 14,
+      "num_days": 39,
+      "num_castaways": 18,
+      "winner": "Chris Underwood",
+      "tribes": [
+        "Kama Manu Lesu Vata"
+      ],
+      "viewership_millions": 7.22,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Edge_of_Extinction"
+    },
+    {
+      "season_number": 39,
+      "title": "Survivor: Island of the Idols",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "March 21, 2019",
+        "end": "April 28, 2019 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "September 25, 2019 [ 2 ]",
+        "end": "December 18, 2019"
+      },
+      "num_episodes": 14,
+      "num_days": 39,
+      "num_castaways": 20,
+      "winner": "Tommy Sheehan",
+      "tribes": [
+        "Lairo Vokai Lumuwaku"
+      ],
+      "viewership_millions": 6.424,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Island_of_the_Idols"
+    },
+    {
+      "season_number": 40,
+      "title": "Survivor: Winners at War",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "May 22, 2019",
+        "end": "June 29, 2019 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "February 12, 2020",
+        "end": "May 13, 2020"
+      },
+      "num_episodes": 14,
+      "num_days": 39,
+      "num_castaways": 20,
+      "winner": "Tony Vlachos",
+      "tribes": [
+        "Dakal Sele Yara Koru"
+      ],
+      "viewership_millions": 7.628,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor%3A_Winners_at_War"
+    },
+    {
+      "season_number": 41,
+      "title": "Survivor 41",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "April 15, 2021",
+        "end": "May 10, 2021 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "September 22, 2021",
+        "end": "December 15, 2021"
+      },
+      "num_episodes": 14,
+      "num_days": 26,
+      "num_castaways": 18,
+      "winner": "Erika Casupanan",
+      "tribes": [
+        "Luvu Ua Yase Viakana"
+      ],
+      "viewership_millions": 5.56,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor_41"
+    },
+    {
+      "season_number": 42,
+      "title": "Survivor 42",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "May 16, 2021",
+        "end": "June 10, 2021 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "March 9, 2022",
+        "end": "May 25, 2022 [ 2 ]"
+      },
+      "num_episodes": 14,
+      "num_days": 26,
+      "num_castaways": 18,
+      "winner": "Maryanne Oketch",
+      "tribes": [
+        "Ika Taku Vati Kula Kula"
+      ],
+      "viewership_millions": 5.368,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor_42"
+    },
+    {
+      "season_number": 43,
+      "title": "Survivor 43",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "May 2, 2022",
+        "end": "May 27, 2022 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "September 21, 2022 [ 2 ]",
+        "end": "December 14, 2022"
+      },
+      "num_episodes": 14,
+      "num_days": 26,
+      "num_castaways": 18,
+      "winner": "Mike Gabler",
+      "tribes": [
+        "Baka Coco Vesi Gaia"
+      ],
+      "viewership_millions": 4.992,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor_43"
+    },
+    {
+      "season_number": 44,
+      "title": "Survivor 44",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "June 5, 2022",
+        "end": "June 30, 2022 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "March 1, 2023",
+        "end": "May 24, 2023 [ 2 ]"
+      },
+      "num_episodes": 14,
+      "num_days": 26,
+      "num_castaways": 18,
+      "winner": "Yam Yam Arocho",
+      "tribes": [
+        "Ratu Soka Tika Va Va"
+      ],
+      "viewership_millions": 5.002,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor_44"
+    },
+    {
+      "season_number": 45,
+      "title": "Survivor 45",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "April 16, 2023",
+        "end": "May 11, 2023 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "September 27, 2023",
+        "end": "December 20, 2023 [ 2 ]"
+      },
+      "num_episodes": 14,
+      "num_days": 26,
+      "num_castaways": 18,
+      "winner": "Dee Valladares",
+      "tribes": [
+        "Belo Lulu Reba Dakuwaqa"
+      ],
+      "viewership_millions": 4.961,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor_45"
+    },
+    {
+      "season_number": 46,
+      "title": "Survivor 46",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "June 1, 2023",
+        "end": "June 26, 2023 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "February 28, 2024",
+        "end": "May 22, 2024 [ 2 ]"
+      },
+      "num_episodes": 14,
+      "num_days": 26,
+      "num_castaways": 18,
+      "winner": "Kenzie Petty",
+      "tribes": [
+        "Nami Siga Yanu Nuinui"
+      ],
+      "viewership_millions": 4.742,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor_46"
+    },
+    {
+      "season_number": 47,
+      "title": "Survivor 47",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "May 13, 2024",
+        "end": "June 7, 2024 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "September 18, 2024",
+        "end": "December 18, 2024 [ 2 ]"
+      },
+      "num_episodes": 15,
+      "num_days": 26,
+      "num_castaways": 18,
+      "winner": "Rachel LaMont",
+      "tribes": [
+        "Gata Lavo Tuku Beka"
+      ],
+      "viewership_millions": 4.485,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor_47"
+    },
+    {
+      "season_number": 48,
+      "title": "Survivor 48",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "June 27, 2024",
+        "end": "July 22, 2024 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "February 26, 2025",
+        "end": "May 21, 2025 [ 2 ]"
+      },
+      "num_episodes": 14,
+      "num_days": 26,
+      "num_castaways": 18,
+      "winner": "Kyle Fraser",
+      "tribes": [
+        "Civa Lagi Vula Niu Nai"
+      ],
+      "viewership_millions": 4.629,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor_48"
+    },
+    {
+      "season_number": 49,
+      "title": "Survivor 49",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "April 20, 2025",
+        "end": "May 15, 2025 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": "September 24, 2025 [ 2 ]",
+        "end": null
+      },
+      "num_episodes": 13,
+      "num_days": 26,
+      "num_castaways": 18,
+      "winner": "",
+      "tribes": [
+        "Hina Kele Uli Merged Tribe"
+      ],
+      "viewership_millions": null,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor_49"
+    },
+    {
+      "season_number": 50,
+      "title": "Survivor 50",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "June 5, 2025",
+        "end": "June 30, 2025 [ 1 ] [ 2 ]"
+      },
+      "airing_dates": {
+        "start": "Spring 2026",
+        "end": null
+      },
+      "num_episodes": null,
+      "num_days": 26,
+      "num_castaways": 24,
+      "winner": "",
+      "tribes": [],
+      "viewership_millions": null,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor_50%3A_In_the_Hands_of_the_Fans"
+    }
+  ]
+}
