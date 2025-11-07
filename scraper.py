@@ -4,6 +4,7 @@ from typing import Dict, List, Optional, Tuple
 import requests
 from bs4 import BeautifulSoup
 from settings import settings
+from datastore import load_seasons
 
 S = requests.Session()
 S.headers.update({"User-Agent": settings.USER_AGENT})
@@ -258,54 +259,167 @@ def fetch_all_seasons() -> List[Dict]:
 
 def fetch_episodes_by_season() -> Dict[str, List[Dict]]:
     """
-    Pull the consolidated episode list page and split by season sections.
-    Each season section contains rows like 'Ep #, Title, Air date' (varies).
-    We'll be conservative and capture ep number + title + airdate if present.
+    Parse the big episodes table on:
+      https://survivor.fandom.com/wiki/List_of_Survivor_(U.S.)_episodes
+    and group rows by season number.
+
+    We map the table's "Season" cell (e.g., 'Borneo', 'The Australian Outback', 'Survivor 41')
+    to an integer season_number using the seasons we've already scraped into data/seasons.json.
     """
+    # 1) Build a lookup from season title variants -> season_number
+    seasons_data = load_seasons()
+    title_to_num: Dict[str, int] = {}
+    for s in seasons_data.get("seasons", []):
+        num = s.get("season_number")
+        title = (s.get("title") or "").strip()
+        if num and title:
+            # Title is usually "Survivor: Borneo" or "Survivor 48" etc.
+            title_to_num[title.lower()] = num
+
+            # Also store a few helpful aliases:
+            # - drop leading "Survivor:" prefix if present
+            alias = title
+            if ":" in alias:
+                alias = alias.split(":", 1)[1].strip()
+                title_to_num[alias.lower()] = num
+            # - if it's "Survivor 48", store "48" and "Survivor48" just in case
+            m = re.search(r"\b(\d{1,3})\b", title)
+            if m:
+                title_to_num[m.group(1).lower()] = num
+                title_to_num[f"survivor {m.group(1)}"] = num
+
+    # 2) Fetch parsed HTML for the list page via MediaWiki API
     _sleep()
-    html, url = _mediawiki_parse_html("List of Survivor (U.S.) episodes")
+    html, page_url = _mediawiki_parse_html("List of Survivor (U.S.) episodes")
     if not html:
         return {}
-    soup = BeautifulSoup(html, "html.parser")
-    episodes_by_season: Dict[str, List[Dict]] = {}
 
-    # Strategy: find all H2 or H3 that look like "Season X" or include a season title,
-    # then collect subsequent <li> or table rows until the next heading.
-    headings = soup.find_all(["h2", "h3"])
-    for i, h in enumerate(headings):
-        htxt = _extract_text(h)
-        # simple matches: "Season 48", "Survivor 48", "Borneo"
-        if re.search(r"\bSeason\s+\d+\b", htxt, re.I) or re.search(r"\bSurvivor\s+\d+\b", htxt, re.I):
-            season_key = re.search(r"(\d+)", htxt)
-            if not season_key:
-                continue
-            season_no = season_key.group(1)
-            # collect content until next h2/h3
-            eps: List[Dict] = []
-            ptr = h.find_next_sibling()
-            while ptr and ptr.name not in ["h2", "h3"]:
-                # search for list items with "Title – Month Day, Year" or tables
-                for li in ptr.find_all("li"):
-                    text = _extract_text(li)
-                    # Try to parse "Episode X: Title – Month DD, YYYY"
-                    m_title = re.search(r'(?::\s*|^\s*)(["“”]?)([^–-]+?)\1\s*[–-]\s*([A-Za-z]+ \d{1,2}, \d{4})', text)
-                    if m_title:
-                        eps.append({
-                            "raw": text,
-                            "title": m_title.group(2).strip(),
-                            "air_date": m_title.group(3).strip(),
-                            "source_url": url
-                        })
-                        continue
-                    # fallback: just keep raw line
-                    if text:
-                        eps.append({"raw": text, "source_url": url})
-                # handle simple tables if present
-                for tr in ptr.find_all("tr"):
-                    cols = [c.get_text(" ", strip=True) for c in tr.find_all(["td", "th"])]
-                    if len(cols) >= 2 and any(re.search(r"\bEpisode\b|\bEp\b", c, re.I) for c in cols) is False:
-                        eps.append({"raw": " | ".join(cols), "source_url": url})
-                ptr = ptr.find_next_sibling()
-            if eps:
-                episodes_by_season[season_no] = eps
+    soup = BeautifulSoup(html, "html.parser")
+
+    # 3) Find the main episodes table: look for a table whose header has "Season" and "Episode Title"
+    target_table = None
+    for tbl in soup.find_all("table"):
+        headers = [h.get_text(" ", strip=True).lower() for h in tbl.find_all("th")]
+        if headers and ("season" in " ".join(headers)) and ("episode title" in " ".join(headers)):
+            target_table = tbl
+            break
+
+    if target_table is None:
+        return {}
+
+    # 4) Identify the column indices
+    header_cells = [h.get_text(" ", strip=True).lower() for h in target_table.find("tr").find_all(["th", "td"])]
+    def col_idx(name_opts: List[str]) -> int:
+        for i, h in enumerate(header_cells):
+            for opt in name_opts:
+                if opt in h:
+                    return i
+        return -1
+
+    season_col = col_idx(["season"])
+    epno_col   = col_idx(["episode no."])   # per-season episode number
+    overall_col= col_idx(["overall"])       # overall episode number
+    air_col    = col_idx(["air date"])
+    title_col  = col_idx(["episode title"])
+    type_col   = col_idx(["episode type"])
+
+    # 5) Walk rows and group by season_number
+    episodes_by_season: Dict[str, List[Dict]] = {}
+    current_season_num: Optional[int] = None
+
+    for tr in target_table.find_all("tr")[1:]:
+        cells = tr.find_all(["td", "th"])
+        if not cells:
+            continue
+
+        # season cell sometimes repeats only on the first row for that season
+        season_txt = ""
+        if season_col != -1 and season_col < len(cells):
+            season_txt = _extract_text(cells[season_col]).strip()
+
+        # If we see a season value in this row, update current season mapping
+        if season_txt:
+            # Prefer link text if present (cleaner than extra whitespace)
+            link = cells[season_col].find("a")
+            if link:
+                season_txt = _extract_text(link).strip() or season_txt
+
+            key = season_txt.lower()
+
+            # Try direct match first
+            num = title_to_num.get(key)
+
+            # Heuristics for aliases:
+            if num is None:
+                # If it reads "Survivor 49" etc, normalize spacing
+                if re.match(r"^survivor\s+\d{1,3}$", key):
+                    num = title_to_num.get(key)
+                # If it reads just the nickname ("Borneo", "Africa", etc.)
+                if num is None:
+                    # Try prepending "Survivor:" and looking up
+                    num = title_to_num.get(f"survivor: {key}")
+                # If it includes parentheses like "(U.S.)", strip them
+                if num is None:
+                    key2 = re.sub(r"\s*\(.*?\)\s*", "", key).strip()
+                    num = title_to_num.get(key2) or title_to_num.get(f"survivor: {key2}")
+
+                # Finally, if the cell ALSO contains a number, use that
+                if num is None:
+                    m = re.search(r"\b(\d{1,3})\b", season_txt)
+                    if m:
+                        num = title_to_num.get(m.group(1).lower())
+
+            current_season_num = num
+
+        # If we still don't know the season, skip this row (can't group it)
+        if current_season_num is None:
+            continue
+
+        def grab(col: int) -> Optional[str]:
+            if col == -1 or col >= len(cells):
+                return None
+            return _extract_text(cells[col]) or None
+
+        ep_season_no = grab(epno_col)
+        ep_overall   = grab(overall_col)
+        air_date     = grab(air_col)
+        ep_type      = grab(type_col)
+
+        title_txt = None
+        if title_col != -1 and title_col < len(cells):
+            # prefer link text → also capture episode page URL if present
+            link = cells[title_col].find("a")
+            if link:
+                title_txt = _extract_text(link)
+                # build episode page URL if available
+                href = link.get("href")
+                if href and href.startswith("/wiki/"):
+                    ep_url = settings.WIKI_BASE + href
+                else:
+                    ep_url = page_url
+            else:
+                title_txt = _extract_text(cells[title_col])
+                ep_url = page_url
+        else:
+            ep_url = page_url
+
+        # Clean numeric fields where possible
+        def to_int(maybe: Optional[str]) -> Optional[int]:
+            if not maybe:
+                return None
+            m = re.search(r"\d+", maybe.replace(",", ""))
+            return int(m.group(0)) if m else None
+
+        rec = {
+            "episode_in_season": to_int(ep_season_no),
+            "episode_overall": to_int(ep_overall),
+            "title": title_txt,
+            "air_date": air_date,
+            "type": ep_type,
+            "source_url": ep_url
+        }
+
+        key = str(current_season_num)
+        episodes_by_season.setdefault(key, []).append(rec)
+
     return episodes_by_season

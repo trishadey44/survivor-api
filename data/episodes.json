@@ -1,4 +1,480 @@
 {
+<<<<<<< HEAD
   "updated_at": "2025-11-07T19:43:56.128383Z",
   "episodes_by_season": {}
+=======
+  "updated_at": "2025-11-07T19:51:56.323443Z",
+  "episodes_by_season": {
+    "1": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "May 31, 2000",
+        "air_date": "1",
+        "type": "\" The Marooning \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "2": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "January 28, 2001",
+        "air_date": "15",
+        "type": "\" Stranded \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "3": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "October 11, 2001",
+        "air_date": "32",
+        "type": "\" Question of Trust \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "4": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 28, 2002",
+        "air_date": "47",
+        "type": "\" Back to the Beach \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "5": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 19, 2002",
+        "air_date": "62",
+        "type": "\" The Importance of Being Eldest \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "6": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 13, 2003",
+        "air_date": "77",
+        "type": "\" Boys vs. Girls \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "7": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 18, 2003",
+        "air_date": "92",
+        "type": "\" Beg, Barter, Steal \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "8": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 1, 2004",
+        "air_date": "107",
+        "type": "\" They're Back! \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "9": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 16, 2004",
+        "air_date": "125",
+        "type": "\" They Came at Us with Spears! \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "10": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 17, 2005",
+        "air_date": "140",
+        "type": "\" This Has Never Happened Before! \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "11": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 15, 2005",
+        "air_date": "155",
+        "type": "\" Big Trek, Big Trouble, Big Surprise \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "12": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 2, 2006",
+        "air_date": "170",
+        "type": "\" The First Exile \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "13": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 14, 2006",
+        "air_date": "186",
+        "type": "\" I Can Forgive Her but I Don't Have to Because She Screwed with My Chickens \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "14": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 8, 2007",
+        "air_date": "202",
+        "type": "\" Something Cruel Is About to Happen... Real Soon \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "15": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 20, 2007",
+        "air_date": "217",
+        "type": "\" A Chicken's a Little Bit Smarter \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "16": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 7, 2008",
+        "air_date": "232",
+        "type": "\" You Guys Are Dumber than You Look \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "17": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 25, 2008",
+        "air_date": "247",
+        "type": "\" Want to See the Elephant Dung? \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "18": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 12, 2009",
+        "air_date": "261",
+        "type": "\" Let's Get Rid of the Weak Players Before We Even Start \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "19": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 17, 2009",
+        "air_date": "276",
+        "type": "\" The Puppet Master \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "20": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 11, 2010",
+        "air_date": "292",
+        "type": "\" Slay Everyone, Trust No One \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "21": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 15, 2010",
+        "air_date": "307",
+        "type": "\" Young at Heart \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "22": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 16, 2011",
+        "air_date": "323",
+        "type": "\" You're Looking at the New Leader of Your Tribe \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "23": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 14, 2011",
+        "air_date": "338",
+        "type": "\" I Need Redemption \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "24": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 15, 2012",
+        "air_date": "354",
+        "type": "\" Two Tribes, One Camp, No Rules \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "25": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 19, 2012",
+        "air_date": "369",
+        "type": "\" Survivor Smacked Me in the Chops \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "26": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 13, 2013",
+        "air_date": "384",
+        "type": "\" She Annoys Me Greatly \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "27": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 18, 2013",
+        "air_date": "399",
+        "type": "\" Blood Is Thicker than Anything \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "28": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 26, 2014",
+        "air_date": "414",
+        "type": "\" Hot Girl with a Grudge \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "29": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 24, 2014",
+        "air_date": "428",
+        "type": "\" Suck It Up and Survive \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "30": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 25, 2015",
+        "air_date": "443",
+        "type": "\" It's Survivor Warfare \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "31": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 23, 2015",
+        "air_date": "458",
+        "type": "\" Second Chance \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "32": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 17, 2016",
+        "air_date": "473",
+        "type": "\" I'm a Mental Giant \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "33": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 21, 2016",
+        "air_date": "487",
+        "type": "\" May the Best Generation Win \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "34": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "March 8, 2017",
+        "air_date": "501",
+        "type": "\" The Stakes Have Been Raised \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "35": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 27, 2017",
+        "air_date": "514",
+        "type": "\" I'm Not Crazy, I'm Confident \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "36": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 28, 2018",
+        "air_date": "528",
+        "type": "\" Can You Reverse the Curse? \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "37": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 26, 2018",
+        "air_date": "542",
+        "type": "\" Appearances Are Deceiving \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "38": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 20, 2019",
+        "air_date": "556",
+        "type": "\" It Smells Like Success \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "39": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 25, 2019",
+        "air_date": "570",
+        "type": "\" I Vote You Out and That's It \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "40": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 12, 2020",
+        "air_date": "584",
+        "type": "\" Greatest of the Greats \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "41": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 22, 2021",
+        "air_date": "598",
+        "type": "\" A New Era \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "42": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "March 9, 2022",
+        "air_date": "612",
+        "type": "\" Feels Like a Rollercoaster \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "43": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 21, 2022",
+        "air_date": "626",
+        "type": "\" LIVIN \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "44": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "March 1, 2023",
+        "air_date": "640",
+        "type": "\" I Can't Wait to See Jeff \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "45": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 27, 2023",
+        "air_date": "654",
+        "type": "\" We Can Do Hard Things \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "46": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "February 28, 2024",
+        "air_date": "668",
+        "type": "\" This Is Where the Legends Are Made \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ],
+    "47": [
+      {
+        "episode_in_season": 1,
+        "episode_overall": null,
+        "title": "September 18, 2024",
+        "air_date": "683",
+        "type": "\" One Glorious and Perfect Episode \"",
+        "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes"
+      }
+    ]
+  }
+>>>>>>> 0716215 (Data updated)
 }
