@@ -1,0 +1,52 @@
+name: Daily Survivor Scrape
+
+# NOTE: GitHub Actions cron uses UTC time.
+# 07:15 AM Pacific Time (PT) = 15:15 UTC in Standard Time (Nov–Mar),
+# and 14:15 UTC in Daylight Time (Mar–Nov).
+# To "always run at 07:15 PT", use two schedules:
+on:
+  schedule:
+    - cron: "15 15 1-31 11,12,1,2,3 *"  # Nov–Mar (approx; PT = UTC-8) -> 15:15 UTC
+    - cron: "15 14 1-31 4,5,6,7,8,9,10 *" # Apr–Oct (approx; PT = UTC-7) -> 14:15 UTC
+  workflow_dispatch:  # let you run it manually from the Actions tab
+
+permissions:
+  contents: write  # required to push commits with GITHUB_TOKEN
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run updater (scrape & write JSON)
+        run: |
+          mkdir -p data
+          python updater.py
+
+      - name: Commit updated data
+        run: |
+          # set git identity for CI
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # stage changes if any (won't fail if none)
+          git add data/seasons.json data/episodes.json || true
+
+          # commit only if there are real diffs
+          git diff --cached --quiet || git commit -m "Daily scrape: update data"
+
+          # push (won't error if no new commit)
+          git push
