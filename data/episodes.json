@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-07T20:45:30.876378Z",
+  "updated_at": "2025-11-08T14:30:19.251369Z",
   "episodes_by_season": {
     "41": [
       {
@@ -20593,6 +20593,16 @@
         "overall_episode_number": null,
         "title": null,
         "air_date": "—",
+        "episode_type": null,
+        "us_viewers_millions": null,
+        "source_url": "https://survivor.fandom.com/wiki/Survivor_49"
+      },
+      {
+        "season_number": 49,
+        "episode_in_season": 10,
+        "overall_episode_number": null,
+        "title": null,
+        "air_date": "November 26, 2025",
         "episode_type": null,
         "us_viewers_millions": null,
         "source_url": "https://survivor.fandom.com/wiki/Survivor_49"
