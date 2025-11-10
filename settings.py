@@ -10,7 +10,7 @@ class Settings:
     USER_AGENT: str = "SurvivorAPI-Bot/1.0 (+https://example.com/contact) TrishaPersonalProject"
 
     # How long to sleep between API calls (seconds)
-    REQUEST_DELAY: float = 0.75
+    REQUEST_DELAY: float = 1.2
 
     # Only scrape Survivor (U.S.) seasons
     # We'll build the list of pages by following season numbers 1..current and possible numeric titles

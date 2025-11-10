@@ -1,0 +1,6782 @@
+{
+  "episode_details_by_season": {
+    "41": [
+      {
+        "episode_in_season": 1,
+        "title": "A New Era",
+        "air_date": "September 22, 2021",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": "Juggling Chainsaws",
+        "air_date": "September 29, 2021",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": "My Million Dollar Mistake",
+        "air_date": "October 6, 2021",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": "They Hate Me 'Cause They Ain't Me",
+        "air_date": "October 13, 2021",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": "The Strategist or the Loyalist",
+        "air_date": "October 20, 2021",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": "Ready to Play Like a Lion",
+        "air_date": "October 27, 2021",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": "There's Gonna Be Blood",
+        "air_date": "November 3, 2021",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": "Betraydar",
+        "air_date": "November 10, 2021",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": "Who's Who in the Zoo",
+        "air_date": "November 17, 2021",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": "Baby with a Machine Gun",
+        "air_date": "November 24, 2021",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": "Do or Die",
+        "air_date": "December 1, 2021",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": "Truth Kamikaze",
+        "air_date": "December 8, 2021",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": "One Thing Left to Do... Win",
+        "air_date": "December 15, 2021",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": "Aftershow",
+        "air_date": "December 15, 2021",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "42": [
+      {
+        "episode_in_season": 1,
+        "title": "Feels Like a Rollercoaster",
+        "air_date": "March 9, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": "Good and Guilty",
+        "air_date": "March 16, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": "Go for the Gusto",
+        "air_date": "March 23, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": "Vibe of the Tribe",
+        "air_date": "March 30, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": "I'm Survivor Rich",
+        "air_date": "April 6, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": "You Can't Hide on Survivor",
+        "air_date": "April 13, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": "The Devil You Do or the Devil You Don't",
+        "air_date": "April 13, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": "You Better Be Wearing a Seatbelt",
+        "air_date": "April 20, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": "Game of Chicken",
+        "air_date": "April 27, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": "Tell a Good Lie, Not a Stupid Lie",
+        "air_date": "May 4, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": "Battle Royale",
+        "air_date": "May 11, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": "Caterpillar to a Butterfly",
+        "air_date": "May 18, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": "It Comes Down to This",
+        "air_date": "May 25, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": "Aftershow",
+        "air_date": "May 25, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "43": [
+      {
+        "episode_in_season": 1,
+        "title": "LIVIN",
+        "air_date": "September 21, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": "Lovable Curmudgeon",
+        "air_date": "September 28, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": "I'll Sign the Divorce Papers",
+        "air_date": "October 5, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": "Show No Mercy",
+        "air_date": "October 12, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": "Stop with All the Niceness",
+        "air_date": "October 19, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": "Mergatory",
+        "air_date": "October 26, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": "Bull in a China Shop",
+        "air_date": "November 2, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": "Proposterous",
+        "air_date": "November 9, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": "What About the Big Girls",
+        "air_date": "November 16, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": "Get That Money, Baby",
+        "air_date": "November 23, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": "Hiding in Plain Sight",
+        "air_date": "November 30, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": "Telenovela",
+        "air_date": "December 7, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": "Snap Some Necks and Cash Some Checks",
+        "air_date": "December 14, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": "Aftershow",
+        "air_date": "December 14, 2022",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "44": [
+      {
+        "episode_in_season": 1,
+        "title": "I Can't Wait to See Jeff",
+        "air_date": "March 1, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": "Two Dorky Magnets",
+        "air_date": "March 8, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": "Sneaky Little Snake",
+        "air_date": "March 15, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": "I'm Felicia",
+        "air_date": "March 22, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": "The Third Turd",
+        "air_date": "March 29, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": "Survivor with a Capital S",
+        "air_date": "April 5, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": "Let's Not Be Cute About It",
+        "air_date": "April 12, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": "Don't Get Cocky, Kid",
+        "air_date": "April 19, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": "Under the Wing of a Dragon",
+        "air_date": "April 26, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": "Full Tilt Boogie",
+        "air_date": "May 3, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": "I'm Not Worthy",
+        "air_date": "May 10, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": "I'm the Bandit",
+        "air_date": "May 17, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": "Absolute Banger Season",
+        "air_date": "May 24, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": "Aftershow",
+        "air_date": "May 24, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "45": [
+      {
+        "episode_in_season": 1,
+        "title": "We Can Do Hard Things",
+        "air_date": "September 27, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": "Brought a Bazooka to a Tea Party",
+        "air_date": "October 4, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": "No Man Left Behind",
+        "air_date": "October 11, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": "Music to My Ears",
+        "air_date": "October 18, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": "I Don't Want to Be the Worm",
+        "air_date": "October 25, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": "I'm Not Batman, I'm the Canadian",
+        "air_date": "November 1, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": "The Thorn in My Thumb",
+        "air_date": "November 8, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": "Following a Dead Horse to Water",
+        "air_date": "November 15, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": "Sword of Damocles",
+        "air_date": "November 22, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": "How Am I the Mobster?",
+        "air_date": "November 29, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": "This Game Rips Your Heart Out",
+        "air_date": "December 6, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": "The Ex-Girlfriend at the Wedding",
+        "air_date": "December 13, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": "Living the Survivor Dream",
+        "air_date": "December 20, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": "Aftershow",
+        "air_date": "December 20, 2023",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "46": [
+      {
+        "episode_in_season": 1,
+        "title": "This Is Where the Legends Are Made",
+        "air_date": "February 28, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": "Scorpio Energy",
+        "air_date": "March 6, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": "Wackadoodles Win",
+        "air_date": "March 13, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": "Don't Touch the Oven",
+        "air_date": "March 20, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": "Tiki Man",
+        "air_date": "March 27, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": "Cancel Christmas",
+        "air_date": "April 3, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": "Episode Several",
+        "air_date": "April 10, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": "Hide 'n Seek",
+        "air_date": "April 17, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": "Spicy Jeff",
+        "air_date": "April 24, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": "Run the Red Light",
+        "air_date": "May 1, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": "My Messy, Sweet Little Friend",
+        "air_date": "May 8, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": "Mamma Bear",
+        "air_date": "May 15, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": "Friends Going to War",
+        "air_date": "May 22, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": "Aftershow",
+        "air_date": "May 22, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "47": [
+      {
+        "episode_in_season": 1,
+        "title": "One Glorious and Perfect Episode",
+        "air_date": "September 18, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": "Epic Boss Girl Move",
+        "air_date": "September 25, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": "Belly of the Beast",
+        "air_date": "October 2, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": "Is That Blood in Your Hair",
+        "air_date": "October 9, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": "The Scales Be Tippin",
+        "air_date": "October 16, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": "Feel the FOMO",
+        "air_date": "October 23, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": "Our Pickle on Blast",
+        "air_date": "October 30, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": "He's All That",
+        "air_date": "November 6, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": "Nightmare Fuel",
+        "air_date": "November 13, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": "Loyal to the Soil",
+        "air_date": "November 20, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": "Flipping the Win Switch",
+        "air_date": "November 27, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": "Operation: Italy",
+        "air_date": "December 4, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": "Bob and Weave",
+        "air_date": "December 11, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": "The Last Stand",
+        "air_date": "December 18, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": "Aftershow",
+        "air_date": "December 18, 2024",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "1": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "May 31, 2000",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "June 7, 2000",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "June 14, 2000",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "June 21, 2000",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "June 28, 2000",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "July 5, 2000",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "July 12, 2000",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "July 19, 2000",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "July 26, 2000",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "August 2, 2000",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "August 9, 2000",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "August 16, 2000",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "August 23, 2000",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "August 23, 2000",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "2": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "January 28, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "February 1, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "February 8, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "February 15, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "February 22, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 1, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "March 8, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "March 14, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "March 21, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "March 29, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "April 5, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "April 12, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "April 19, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "April 26, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "May 3, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 16,
+        "title": null,
+        "air_date": "May 3, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "3": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "October 11, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "October 18, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "October 25, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "November 1, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "November 8, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "November 15, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "November 22, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 29, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "December 6, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "December 13, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "December 20, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 27, 2001",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "January 3, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "January 10, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "January 10, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "4": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 28, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "March 7, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "March 13, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 20, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 28, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "April 4, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "April 11, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 18, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 24, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 25, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "May 2, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 9, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 16, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 19, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "May 19, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "5": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 19, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "September 26, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "October 3, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 10, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 17, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 24, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "October 31, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 7, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 14, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 21, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "November 27, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 5, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 12, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 19, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "December 19, 2002",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "6": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 13, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "February 20, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "February 27, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 6, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 13, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 19, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "March 26, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 3, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 10, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 17, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "April 24, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 1, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 8, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 11, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "May 11, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "7": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 18, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "September 25, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "October 2, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 9, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 16, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 23, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "October 30, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 6, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 13, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 20, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "November 26, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 4, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 11, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 14, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "December 14, 2003",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "8": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 1, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "February 5, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "February 12, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "February 19, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "February 26, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 4, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "March 11, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "March 17, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "March 24, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 1, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "April 8, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "April 15, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "April 22, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "April 29, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "May 6, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 16,
+        "title": null,
+        "air_date": "May 9, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 17,
+        "title": null,
+        "air_date": "May 9, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 18,
+        "title": null,
+        "air_date": "May 13, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "9": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 16, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "September 23, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "September 30, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 7, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 14, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 21, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "October 28, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 4, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 11, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 18, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "November 25, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 2, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 9, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 12, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "December 12, 2004",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "10": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 17, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "February 24, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "March 3, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 10, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 16, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 23, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "March 31, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 7, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 14, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 21, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "April 28, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 5, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 12, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 15, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "May 15, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "11": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 15, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "September 22, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "September 29, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 6, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 13, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 20, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "October 27, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 3, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 10, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 17, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "November 24, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 1, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 8, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 11, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "December 11, 2005",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "12": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 2, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "February 9, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "February 16, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "February 23, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 2, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 9, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "March 15, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "March 30, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 6, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 13, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "April 20, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "April 27, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 4, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 11, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "May 14, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 16,
+        "title": null,
+        "air_date": "May 14, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "13": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 14, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "September 21, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "September 28, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 5, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 12, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 19, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "October 26, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 2, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 9, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 16, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "November 23, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "November 30, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 7, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 14, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "December 17, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 16,
+        "title": null,
+        "air_date": "December 17, 2006",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "14": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 8, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "February 15, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "February 22, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 1, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 8, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 21, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "March 29, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 5, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 12, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 19, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "April 26, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 3, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 10, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 13, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "May 13, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "15": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 20, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "September 27, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "October 4, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 11, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 18, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 25, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "November 1, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 8, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 15, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 22, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "November 29, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 6, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 13, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 16, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "December 16, 2007",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "16": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 7, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "February 14, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "February 21, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "February 28, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 6, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 13, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "March 19, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 3, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 10, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 17, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "April 24, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 1, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 8, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 11, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "May 11, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "17": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 25, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "October 2, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "October 9, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 16, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 23, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 30, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "November 6, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 13, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 20, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 27, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "December 4, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 11, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 14, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 14, 2008",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "18": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 12, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "February 19, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "February 26, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 5, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 12, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 25, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "April 2, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 9, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 16, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 23, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "April 30, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 7, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 14, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 17, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "May 17, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "19": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 17, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "September 24, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "October 1, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 8, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 15, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 22, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "October 29, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 5, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 12, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 19, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "November 26, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 3, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 10, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 17, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "December 20, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 16,
+        "title": null,
+        "air_date": "December 20, 2009",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "20": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 11, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "February 18, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "February 25, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 4, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 11, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 24, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "April 1, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 8, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 15, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 22, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "April 29, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 6, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 13, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 16, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "May 16, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "21": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 15, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "September 22, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "September 29, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 6, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 13, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 20, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "October 27, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 3, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 10, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 17, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "November 24, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 1, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 8, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 15, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "December 19, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 16,
+        "title": null,
+        "air_date": "December 19, 2010",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "22": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 16, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "February 23, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "March 2, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 9, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 16, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 23, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "March 30, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 6, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 13, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 20, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "April 27, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 4, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 11, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 15, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "May 15, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "23": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 14, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "September 21, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "September 28, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 5, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 12, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 19, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "October 26, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 2, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 9, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 16, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "November 23, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "November 30, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 7, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 14, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "December 18, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 16,
+        "title": null,
+        "air_date": "December 18, 2011",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "24": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 15, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "February 22, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "February 29, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 7, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 14, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 21, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "March 28, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 4, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 11, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 18, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "April 25, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 2, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 9, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 13, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "May 13, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "25": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 19, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "September 26, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "October 3, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 10, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 17, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 24, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "October 31, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 7, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 14, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 21, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "November 28, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 5, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 12, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 16, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "December 16, 2012",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "26": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 13, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "February 20, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "February 27, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 6, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 13, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 20, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "March 27, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 3, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 10, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 17, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "April 24, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 1, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 8, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 12, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "May 12, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "27": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 18, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "September 25, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "October 2, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 9, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 16, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 23, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "October 30, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 6, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 13, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 20, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "November 27, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 4, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 11, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 15, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "December 15, 2013",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "28": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 26, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "March 5, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "March 12, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 19, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 26, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "April 2, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "April 9, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 16, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 23, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 30, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "May 7, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 14, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 21, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 21, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "29": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 24, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "October 1, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "October 8, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 15, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 22, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 29, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "November 5, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 12, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 19, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 26, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "December 3, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 3, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 10, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 17, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "December 17, 2014",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "30": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 25, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "March 4, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "March 11, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 18, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 18, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 25, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "April 1, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 8, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 15, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 22, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "April 29, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 6, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 13, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 20, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "May 20, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "31": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 23, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "September 30, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "October 7, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 14, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 21, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 28, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "November 4, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 11, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 18, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 25, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "November 25, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 2, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 9, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 16, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "December 16, 2015",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "32": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 17, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "February 24, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "March 2, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 9, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 16, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 23, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "March 30, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 6, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 13, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 20, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "April 27, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 4, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 11, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 18, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": null,
+        "air_date": "May 18, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "33": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 21, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "September 28, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "October 5, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 12, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 19, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 26, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "November 2, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 9, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 16, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 23, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "November 30, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 7, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 14, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 14, 2016",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "34": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "March 8, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "March 15, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "March 22, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 29, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "April 5, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "April 12, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "April 19, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 26, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "May 3, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "May 10, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "May 17, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 24, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 24, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "35": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 27, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "October 4, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "October 11, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 18, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 25, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "November 1, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "November 8, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 15, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 22, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 29, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "December 6, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 13, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 20, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 20, 2017",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "36": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 28, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "March 7, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "March 14, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 21, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 28, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "April 4, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "April 11, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 18, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 25, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "May 2, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "May 9, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 16, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 23, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 23, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "37": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 26, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "October 3, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "October 10, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 17, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 24, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 31, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "November 7, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 14, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 21, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 28, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "December 5, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 12, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 19, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 19, 2018",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "38": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 20, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "February 27, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "March 6, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 13, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 20, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 27, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "April 3, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 10, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 17, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 24, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "May 1, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 8, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 15, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 15, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "39": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 25, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "October 2, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "October 9, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 16, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 23, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 30, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "November 6, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 13, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 20, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 27, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "December 4, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "December 11, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "December 18, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "December 18, 2019",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "40": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 12, 2020",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "February 19, 2020",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "February 26, 2020",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 4, 2020",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 11, 2020",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "March 18, 2020",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "March 25, 2020",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 1, 2020",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 8, 2020",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 15, 2020",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "April 22, 2020",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "April 29, 2020",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 6, 2020",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 13, 2020",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "48": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "February 26, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "March 5, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "March 12, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "March 19, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "March 26, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "April 2, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "April 9, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "April 16, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "April 23, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "April 30, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": null,
+        "air_date": "May 7, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": null,
+        "air_date": "May 14, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": null,
+        "air_date": "May 21, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": null,
+        "air_date": "May 21, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "49": [
+      {
+        "episode_in_season": 1,
+        "title": null,
+        "air_date": "September 24, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 2,
+        "title": null,
+        "air_date": "October 1, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 3,
+        "title": null,
+        "air_date": "October 8, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 4,
+        "title": null,
+        "air_date": "October 15, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 5,
+        "title": null,
+        "air_date": "October 22, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 6,
+        "title": null,
+        "air_date": "October 29, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 7,
+        "title": null,
+        "air_date": "November 5, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 8,
+        "title": null,
+        "air_date": "November 12, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 9,
+        "title": null,
+        "air_date": "November 19, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 10,
+        "title": null,
+        "air_date": "November 26, 2025",
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ],
+    "50": [
+      {
+        "episode_in_season": 1,
+        "title": "Survivor 49",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 11,
+        "title": "Survivor 46",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 12,
+        "title": "tribes",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 13,
+        "title": "special",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 14,
+        "title": "Survivor 48",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 15,
+        "title": "Survivor 50",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 16,
+        "title": "www.survivor50cbs.votenow.tv",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 27,
+        "title": "Survivor",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 31,
+        "title": "Survivor 49",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 32,
+        "title": "In the Hands of the Fans",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 33,
+        "title": "In the Hands of the Fans",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 34,
+        "title": "In the Hands of the Fans",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 35,
+        "title": "In the Hands of the Fans",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 36,
+        "title": "In the Hands of the Fans",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 38,
+        "title": "In the Hands of the Fans",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 39,
+        "title": "In the Hands of the Fans",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 40,
+        "title": "s logo . Have no text other than the season",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 41,
+        "title": "In the Hands of the Fans",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 42,
+        "title": "In the Hands of the Fans",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 43,
+        "title": "In the Hands of the Fans",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 47,
+        "title": "SURVIVOR",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      },
+      {
+        "episode_in_season": 48,
+        "title": "SURVIVOR",
+        "air_date": null,
+        "episode_page_url": null,
+        "immunity_winners": [],
+        "eliminated": [],
+        "advantage_events": []
+      }
+    ]
+  }
+}
