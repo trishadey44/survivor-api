@@ -1113,6 +1113,42 @@ def _episode_details_from_page(title: str) -> Dict:
         "advantage_events": adv,
     }
 
+
+def _extract_episode_number_in_season_from_infobox(soup: BeautifulSoup) -> Optional[int]:
+    """Best-effort: read the episode number *in season* from an episode page infobox."""
+    # Common labels we may encounter
+    labels = [
+        "No. in season",
+        "Episode no. in season",
+        "No. in-series",   # odd variants
+        "Episode no.",
+        "Episode No. in season",
+        "Episode number in season",
+    ]
+    # Find infobox
+    infobox = None
+    for tbl in soup.find_all("table"):
+        classes = " ".join(tbl.get("class") or [])
+        if "infobox" in classes:
+            infobox = tbl
+            break
+    if not infobox:
+        return None
+    # Scan rows
+    for tr in infobox.find_all("tr"):
+        th = tr.find("th")
+        td = tr.find("td")
+        if not th or not td:
+            continue
+        label = _extract_text(th).strip()
+        if not label:
+            continue
+        for wanted in labels:
+            if wanted.lower() in label.lower():
+                n = _to_int(_extract_text(td))
+                if isinstance(n, int):
+                    return n
+    return None
 def _season_episode_links(sn: int) -> List[Tuple[int, str]]:
     for title in _season_title_variants(sn):
         links = _find_episode_rows_with_links_on_season_page(title)
@@ -1121,6 +1157,16 @@ def _season_episode_links(sn: int) -> List[Tuple[int, str]]:
     return []
 
 def enrich_episode_details(episodes_by_season: Dict[str, List[Dict]]) -> Dict[str, List[Dict]]:
+    """
+    Enrich in three passes (without touching how seasons/episodes are gathered):
+      1) Preferred: use episode links from the season page episode table (title-cell links).
+      2) Fallback A (per-episode guess): if no links found for that season, try fetching the episode
+         page by its Title (and Title + " (episode)").
+      3) Fallback B (season subpages): if the season has "Episode(s)" subpages, scan those pages and
+         map each subpage to its "No. in season" from the infobox, then join back.
+    We only add details for episodes that already have a valid air_date (so we don't prefill future eps).
+    """
+    # index episodes by season->episode_in_season
     index: Dict[int, Dict[int, Dict]] = {}
     for skey, eps in episodes_by_season.items():
         try:
@@ -1139,25 +1185,90 @@ def enrich_episode_details(episodes_by_season: Dict[str, List[Dict]]) -> Dict[st
         except Exception:
             continue
 
+        # PASS 1 — preferred: season page links
         links = _season_episode_links(sn)  # [(ep_in, page_title)]
-        if not links:
-            continue
+        if links:
+            for ep_in, page_title in links:
+                rec = index.get(sn, {}).get(ep_in)
+                if not rec:
+                    continue
+                air_date = _clean_air_date(rec.get("air_date"))
+                if not air_date:
+                    continue  # skip future/invalid rows
+                details = _episode_details_from_page(page_title)
+                if details.get("source_url"):
+                    rec["episode_page_url"] = details["source_url"]
+                if details.get("immunity_winners"):
+                    rec["immunity_winners"] = details["immunity_winners"]
+                if details.get("eliminated"):
+                    rec["eliminated"] = details["eliminated"]
+                if details.get("advantage_events"):
+                    rec["advantage_events"] = details["advantage_events"]
+            continue  # season handled
 
-        for ep_in, page_title in links:
-            rec = index.get(sn, {}).get(ep_in)
+        # PASS 2 — fallback A: try per-episode by title
+        # (keeps your existing Title -> \"(episode)\" lookup logic inside _episode_details_from_page)
+        did_any = False
+        for rec in eps:
+            ep_in = rec.get("episode_in_season")
+            air_date = _clean_air_date(rec.get("air_date"))
+            title = (rec.get("title") or "").strip()
+            if not isinstance(ep_in, int) or not air_date or not title:
+                continue
+            details = _episode_details_from_page(title)
+            if details.get("source_url"):
+                did_any = True
+                rec["episode_page_url"] = details["source_url"]
+                if details.get("immunity_winners"):
+                    rec["immunity_winners"] = details["immunity_winners"]
+                if details.get("eliminated"):
+                    rec["eliminated"] = details["eliminated"]
+                if details.get("advantage_events"):
+                    rec["advantage_events"] = details["advantage_events"]
+
+        if did_any:
+            continue  # done for this season
+
+        # PASS 3 — fallback B: scan episode-like subpages and map via infobox 'No. in season'
+        # Try each season title variant; collect episode-like links.
+        candidates: List[str] = []
+        for title in _season_title_variants(sn):
+            html, _ = _mediawiki_parse_html(title)
+            if not html:
+                continue
+            soup = BeautifulSoup(html, "html.parser")
+            for href in _find_episode_like_links(soup):
+                if href not in candidates:
+                    candidates.append(href)
+
+        # For each candidate page, see if it looks like an episode page with an infobox
+        # that includes the 'No. in season'. If so, map it.
+        for href in candidates:
+            _sleep()
+            sub_html, _ = _fetch_internal_path(href)
+            if not sub_html:
+                continue
+            sub_soup = BeautifulSoup(sub_html, "html.parser")
+            ep_no = _extract_episode_number_in_season_from_infobox(sub_soup)
+            if not isinstance(ep_no, int):
+                continue
+            # Try to resolve a proper title to fetch details later (page title text from API)
+            # We can derive a MediaWiki title from the href.
+            page_title = requests.utils.unquote(href.split("/wiki/")[-1]).replace("_", " ")
+            rec = index.get(sn, {}).get(ep_no)
             if not rec:
                 continue
             air_date = _clean_air_date(rec.get("air_date"))
             if not air_date:
-                continue  # skip future/invalid rows
+                continue
             details = _episode_details_from_page(page_title)
             if details.get("source_url"):
                 rec["episode_page_url"] = details["source_url"]
-            if details.get("immunity_winners"):
-                rec["immunity_winners"] = details["immunity_winners"]
-            if details.get("eliminated"):
-                rec["eliminated"] = details["eliminated"]
-            if details.get("advantage_events"):
-                rec["advantage_events"] = details["advantage_events"]
+                if details.get("immunity_winners"):
+                    rec["immunity_winners"] = details["immunity_winners"]
+                if details.get("eliminated"):
+                    rec["eliminated"] = details["eliminated"]
+                if details.get("advantage_events"):
+                    rec["advantage_events"] = details["advantage_events"]
 
     return episodes_by_season

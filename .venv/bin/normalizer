@@ -1,4 +1,6 @@
-#!/Users/trishadey/Desktop/survivor-api/.venv/bin/python
+#!/bin/sh
+'''exec' "/Users/trishadey/Downloads/survivor-api 2/.venv/bin/python3.14" "$0" "$@"
+' '''
 import sys
 from charset_normalizer.cli import cli_detect
 if __name__ == '__main__':
