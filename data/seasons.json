@@ -1090,10 +1090,10 @@
         "start": "February 25, 2026 [ 3 ]",
         "end": "May 20, 2026 [ 4 ]"
       },
-      "num_episodes": null,
+      "num_episodes": 13,
       "num_days": 26,
       "num_castaways": 24,
-      "winner": "",
+      "winner": "Aubry Bracco",
       "tribes": [
         "Cila Kalo Vatu Manulevu"
       ],
