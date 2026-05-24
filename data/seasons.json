@@ -1099,6 +1099,28 @@
       ],
       "viewership_millions": null,
       "source_url": "https://survivor.fandom.com/wiki/Survivor_50%3A_In_the_Hands_of_the_Fans"
+    },
+    {
+      "season_number": 51,
+      "title": "Survivor 51",
+      "location": "Mamanuca Islands , Fiji",
+      "filming_dates": {
+        "start": "April 18, 2026",
+        "end": "May 13, 2026 [ 1 ]"
+      },
+      "airing_dates": {
+        "start": null,
+        "end": null
+      },
+      "num_episodes": null,
+      "num_days": 26,
+      "num_castaways": 21,
+      "winner": "",
+      "tribes": [
+        "Toka Savu"
+      ],
+      "viewership_millions": null,
+      "source_url": "https://survivor.fandom.com/wiki/Survivor_51"
     }
   ]
 }

@@ -8659,6 +8659,68 @@
         "us_viewers_millions": null,
         "source_url": "https://survivor.fandom.com/wiki/Survivor_50%3A_In_the_Hands_of_the_Fans"
       }
+    ],
+    "51": [
+      {
+        "season_number": 51,
+        "episode_in_season": 1,
+        "overall_episode_number": null,
+        "title": "Survivor",
+        "air_date": null,
+        "episode_type": null,
+        "us_viewers_millions": null,
+        "source_url": "https://survivor.fandom.com/wiki/Survivor_51"
+      },
+      {
+        "season_number": 51,
+        "episode_in_season": 9,
+        "overall_episode_number": null,
+        "title": "Open Era",
+        "air_date": null,
+        "episode_type": null,
+        "us_viewers_millions": null,
+        "source_url": "https://survivor.fandom.com/wiki/Survivor_51"
+      },
+      {
+        "season_number": 51,
+        "episode_in_season": 12,
+        "overall_episode_number": null,
+        "title": "Survivor: Fiji",
+        "air_date": null,
+        "episode_type": null,
+        "us_viewers_millions": null,
+        "source_url": "https://survivor.fandom.com/wiki/Survivor_51"
+      },
+      {
+        "season_number": 51,
+        "episode_in_season": 13,
+        "overall_episode_number": null,
+        "title": "Survivor 50: In the Hands of the Fans",
+        "air_date": null,
+        "episode_type": null,
+        "us_viewers_millions": null,
+        "source_url": "https://survivor.fandom.com/wiki/Survivor_51"
+      },
+      {
+        "season_number": 51,
+        "episode_in_season": 14,
+        "overall_episode_number": null,
+        "title": "Survivor: Winners at War",
+        "air_date": null,
+        "episode_type": null,
+        "us_viewers_millions": null,
+        "source_url": "https://survivor.fandom.com/wiki/Survivor_51"
+      },
+      {
+        "season_number": 51,
+        "episode_in_season": 15,
+        "overall_episode_number": null,
+        "title": "Survivor: Fiji",
+        "air_date": null,
+        "episode_type": null,
+        "us_viewers_millions": null,
+        "source_url": "https://survivor.fandom.com/wiki/Survivor_51"
+      }
     ]
   }
 }
