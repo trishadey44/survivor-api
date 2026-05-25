@@ -8665,7 +8665,7 @@
         "season_number": 51,
         "episode_in_season": 1,
         "overall_episode_number": null,
-        "title": "Survivor",
+        "title": "Survivor 51",
         "air_date": null,
         "episode_type": null,
         "us_viewers_millions": null,
@@ -8683,7 +8683,17 @@
       },
       {
         "season_number": 51,
-        "episode_in_season": 12,
+        "episode_in_season": 27,
+        "overall_episode_number": null,
+        "title": "Fiji",
+        "air_date": null,
+        "episode_type": null,
+        "us_viewers_millions": null,
+        "source_url": "https://survivor.fandom.com/wiki/Survivor_51"
+      },
+      {
+        "season_number": 51,
+        "episode_in_season": 30,
         "overall_episode_number": null,
         "title": "Survivor: Fiji",
         "air_date": null,
@@ -8693,17 +8703,7 @@
       },
       {
         "season_number": 51,
-        "episode_in_season": 13,
-        "overall_episode_number": null,
-        "title": "Survivor 50: In the Hands of the Fans",
-        "air_date": null,
-        "episode_type": null,
-        "us_viewers_millions": null,
-        "source_url": "https://survivor.fandom.com/wiki/Survivor_51"
-      },
-      {
-        "season_number": 51,
-        "episode_in_season": 14,
+        "episode_in_season": 31,
         "overall_episode_number": null,
         "title": "Survivor: Winners at War",
         "air_date": null,
@@ -8713,9 +8713,19 @@
       },
       {
         "season_number": 51,
-        "episode_in_season": 15,
+        "episode_in_season": 32,
         "overall_episode_number": null,
         "title": "Survivor: Fiji",
+        "air_date": null,
+        "episode_type": null,
+        "us_viewers_millions": null,
+        "source_url": "https://survivor.fandom.com/wiki/Survivor_51"
+      },
+      {
+        "season_number": 51,
+        "episode_in_season": 33,
+        "overall_episode_number": null,
+        "title": "Survivor 50: In the Hands of the Fans",
         "air_date": null,
         "episode_type": null,
         "us_viewers_millions": null,
