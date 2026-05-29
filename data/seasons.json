@@ -1109,14 +1109,16 @@
         "end": "May 13, 2026 [ 1 ]"
       },
       "airing_dates": {
-        "start": null,
+        "start": "Fall 2026",
         "end": null
       },
       "num_episodes": null,
       "num_days": 26,
       "num_castaways": null,
       "winner": "",
-      "tribes": [],
+      "tribes": [
+        "Toka Savu"
+      ],
       "viewership_millions": null,
       "source_url": "https://survivor.fandom.com/wiki/Survivor_51"
     }

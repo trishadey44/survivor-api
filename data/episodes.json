@@ -8663,17 +8663,7 @@
     "51": [
       {
         "season_number": 51,
-        "episode_in_season": 1,
-        "overall_episode_number": null,
-        "title": "Survivor 51",
-        "air_date": null,
-        "episode_type": null,
-        "us_viewers_millions": null,
-        "source_url": "https://survivor.fandom.com/wiki/Survivor_51"
-      },
-      {
-        "season_number": 51,
-        "episode_in_season": 9,
+        "episode_in_season": 8,
         "overall_episode_number": null,
         "title": "Open Era",
         "air_date": null,
@@ -8685,7 +8675,7 @@
         "season_number": 51,
         "episode_in_season": 29,
         "overall_episode_number": null,
-        "title": "Survivor: Winners at War",
+        "title": "Survivor 51",
         "air_date": null,
         "episode_type": null,
         "us_viewers_millions": null,
