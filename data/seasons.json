@@ -1114,7 +1114,7 @@
       },
       "num_episodes": null,
       "num_days": 26,
-      "num_castaways": null,
+      "num_castaways": 21,
       "winner": "",
       "tribes": [],
       "viewership_millions": null,
