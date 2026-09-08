@@ -1381,7 +1381,25 @@
         "episode_type": null,
         "us_viewers_millions": null,
         "source_url": "https://survivor.fandom.com/wiki/List_of_Survivor_%28U.S.%29_episodes",
-        "episode_page_url": "https://survivor.fandom.com/wiki/I%27m_the_Bandit"
+        "episode_page_url": "https://survivor.fandom.com/wiki/I%27m_the_Bandit",
+        "advantage_events": [
+          {
+            "text": "The tribe returns to camp after Tribal Council. They excitedly discuss Carolyn's idol play.",
+            "tag": "idol"
+          },
+          {
+            "text": "As Carolyn recounts her experience of finding and concealing the idol, tribe members begin to grow wary of Carolyn as a strategic threat.",
+            "tag": "idol"
+          },
+          {
+            "text": "Early in the morning, Carson notices Heidi sneak out of camp. He assumes (correctly) that she is looking for an idol, which presumably would have been re-hidden after Carolyn's idol play the night before. Heidi is concerned that she will be targeted next.",
+            "tag": "idol"
+          },
+          {
+            "text": "Later, the rest of the castaways join in on the search, although no one finds anything. Lauren pranks Carolyn by telling her that she spotted \"something\" in a tree (implying an idol), only for the \"something\" to be a coconut that she wants Carolyn to retrieve. Privately, Lauren is becoming wary of Carolyn's game.",
+            "tag": "idol"
+          }
+        ]
       },
       {
         "season_number": 44,
